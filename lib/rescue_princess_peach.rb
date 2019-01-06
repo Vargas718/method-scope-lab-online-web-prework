@@ -11,6 +11,6 @@ end
 
 
 
-# rescue_princess_peach
+ rescue_princess_peach(status)
 
-# puts status
+ puts status
